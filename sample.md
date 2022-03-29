@@ -1,5 +1,5 @@
 <!-- Github Markdown -->
-[Back to README.md](../README.md)
+[Back to README.md](README.md)
 
 You need to ensure the environment below
 <!-- Code Blocks -->
