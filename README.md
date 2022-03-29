@@ -1,75 +1,46 @@
 <!-- Heading -->
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
+## Computer English
+<!-- Images -->
+![JLULogo](logo.jpg)
+#### Topic1 How to use Git/Github and Markdown
+#### Response to homework1
 
-<!-- Italics -->
-*This text* is italic
-
-_This text_ is italic
-
-<!-- Strong -->
-**This text** is italic
-
-__This text__ is italic
-
-
-<!-- Strikethrough -->
-~~This text~~ is italic
+[Link to sample.md](sample.md)
 
 <!--Horizontal Rule -->
-
 ---
-___
+<!-- Italics -->
+*Welcome to my coursework page*
+<!-- Strong -->
+**Below is my private web site,called**<!-- Italics -->
+*The Island*
+<!-- Strikethrough -->
+~~(But I haven't post any blog yet)~~
+<!-- Links -->
+[Gao's Blog, welcome to visit](http://gaoxiangyu.cn
+"Gaoxiangyu's private Blog site")
 
 <!-- Blockquote -->
->This is a quote
-
-<!-- Links -->
-[Gao's Blog](http://gaoxiangyu.cn
-"INFO")
-
-<!-- UL -->
-* Item 1
-    * Nested Item 1
-* Item 2
-
-<!-- OL -->
-1. Item1
-2. Item2
-
-<!-- Inline Code Block -->
-`<p>This is a paragraph</p>`
+>Here are my personal introduction
 
 <!-- Images -->
-![TestLogo](https://cn.bing.com)
-
-<!-- Github Markdown -->
-
-<!-- Code Blocks -->
-```bash
-pip install xxx
-
-```
-
-```python
-def test():
-    print('Hello')
-```
-
+![JLULogo](https://www.jlu.edu.cn/images/logo.jpg)
+<!-- UL -->
+* A junior student in Jilin University
+* A professional bug Writter    
+* Unmarried(Speciall pointed)
 <!-- Tables -->
-|        Name    | Email |
-|-----------|------------|
+|Name       | Email           |
+|-----------|-----------------|
 |Xiangyu Gao|1510597588@qq.com|
 
-<!-- Task Lists -->
-* [1] Task1
+Professional Skills
+<!-- OL -->
+1. Programming:C/C++,Java,Python,Verilog
+2. Statictical Learning and Implementation
+3. java full-stack developer,jvm optimization
+4. Redis,Mysql,Oracle
 
-
-
-
-
-
+[Link to sample.md](Topic1/sample.md)
+<!--Horizontal Rule -->
+---
