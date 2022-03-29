@@ -41,6 +41,6 @@ Professional Skills
 3. java full-stack developer,jvm optimization
 4. Redis,Mysql,Oracle
 
-[Link to sample.md](Topic1/sample.md)
+[Link to sample.md](sample.md)
 <!--Horizontal Rule -->
 ---
